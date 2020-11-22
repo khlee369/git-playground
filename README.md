@@ -1,5 +1,2 @@
 # git-playground
-hi
-hihi
-bye
-fast
+체리픽 실습하기
